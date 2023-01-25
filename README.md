@@ -4,7 +4,8 @@
 ## Description
 This app is a text editor that runs on the browser. It is a single-page app that uses data persistence techniques to cover unsupported browsers, and it will have to ability to run offline. This is a full stack application with a server and client side.
 
-## Link
+## Links
+![Screen Shot 2023-01-25 at 3 12 56 PM](https://user-images.githubusercontent.com/109611768/214692130-7cf257f8-93b3-4c3d-bb35-f58e520d7380.png)
 
 
 ## Table of Contents
